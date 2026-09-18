@@ -1,3 +1,24 @@
+# Krbn (vpalos/Krbn)
+
+## 프로젝트 개요
+복잡한 3D 입체 장면을 마치 예술가가 연필로 직접 슥슥 스케치한 듯한 감성적인 벡터(SVG) 일러스트로 그려내는 "3D 연필 스케치 렌더링 엔진"
+차가운 컴퓨터 그래픽 대신 손그림 특유의 따뜻하고 감각적인 감성을 웹 화면 위에 가볍고 선명하게 렌더링
+예술적 감성의 웹 디자인, 건축 스케치 전시, 독창적인 인터랙티브 아트를 선보이고 싶은 크리에이터의 감성 도구
+
+## 핵심 특징 & 추천 분야
+- 3D연필스케치
+- 손그림감성렌더링
+- 벡터아트엔진
+- 따뜻한감성디자인
+- 크리에이티브웹아트
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # Krbn — working brief for Claude
 
 Krbn is a web engine for non-photorealistic, **pencil-style** rendering of abstract
